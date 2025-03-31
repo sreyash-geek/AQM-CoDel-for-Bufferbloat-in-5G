@@ -1,0 +1,150 @@
+Flow 1 (1.0.0.2:49153 -> 7.0.0.2:1234) proto UDP
+  Tx Packets: 10
+  Tx Bytes:   15280
+  TxOffered:  0.012733 Mbps
+  Rx Bytes:   15280
+  Throughput: 0.013569 Mbps
+  Mean delay:  9.164281 ms
+  Mean jitter:  0.100000 ms
+  Rx Packets: 10
+Flow 2 (1.0.0.2:49154 -> 7.0.0.2:1234) proto UDP
+  Tx Packets: 144000
+  Tx Bytes:   220032000
+  TxOffered:  183.360000 Mbps
+  Rx Bytes:   219824192
+  Throughput: 183.195141 Mbps
+  Mean delay:  8.842127 ms
+  Mean jitter:  0.115540 ms
+  Rx Packets: 143864
+
+
+  Mean flow throughput: 91.604355
+  Mean flow delay: 9.003204
+
+ ----------------------------xx----------------------------------------xx---------------------
+
+Flow 1 (1.0.0.2:49153 -> 7.0.0.2:1234) proto UDP
+  Tx Packets: 10
+  Tx Bytes:   15280
+  TxOffered:  0.012733 Mbps
+  Rx Bytes:   3056
+  Throughput: 0.019371 Mbps
+  Mean delay:  136.064281 ms
+  Mean jitter:  126.000000 ms
+  Rx Packets: 2
+Flow 2 (1.0.0.2:49154 -> 7.0.0.2:1234) proto UDP
+  Tx Packets: 192000
+  Tx Bytes:   293376000
+  TxOffered:  244.480000 Mbps
+  Rx Bytes:   147112784
+  Throughput: 194.286386 Mbps
+  Mean delay:  578.838088 ms
+  Mean jitter:  0.101409 ms
+  Rx Packets: 96278
+
+
+  Mean flow throughput: 97.152879
+  Mean flow delay: 357.451184
+
+ ----------------------------xx----------------------------------------xx---------------------
+
+Flow 1 (1.0.0.2:49153 -> 7.0.0.2:1234) proto UDP
+  Tx Packets: 10
+  Tx Bytes:   15280
+  TxOffered:  0.012733 Mbps
+  Rx Bytes:   3056
+  Throughput: 0.007821 Mbps
+  Mean delay:  568.064281 ms
+  Mean jitter:  558.000000 ms
+  Rx Packets: 2
+Flow 2 (1.0.0.2:49154 -> 7.0.0.2:1234) proto UDP
+  Tx Packets: 240000
+  Tx Bytes:   366720000
+  TxOffered:  305.600000 Mbps
+  Rx Bytes:   184930784
+  Throughput: 194.355462 Mbps
+  Mean delay:  1351.965686 ms
+  Mean jitter:  0.093488 ms
+  Rx Packets: 121028
+
+
+  Mean flow throughput: 97.181641
+  Mean flow delay: 960.014984
+
+ ----------------------------xx----------------------------------------xx---------------------
+
+Flow 1 (1.0.0.2:49153 -> 7.0.0.2:1234) proto UDP
+  Tx Packets: 10
+  Tx Bytes:   15280
+  TxOffered:  0.012733 Mbps
+  Rx Bytes:   3056
+  Throughput: 0.012935 Mbps
+  Mean delay:  450.064281 ms
+  Mean jitter:  440.000000 ms
+  Rx Packets: 2
+Flow 2 (1.0.0.2:49154 -> 7.0.0.2:1234) proto UDP
+  Tx Packets: 288003
+  Tx Bytes:   440068584
+  TxOffered:  366.723820 Mbps
+  Rx Bytes:   222797680
+  Throughput: 194.411970 Mbps
+  Mean delay:  2126.972679 ms
+  Mean jitter:  0.088275 ms
+  Rx Packets: 145810
+
+
+  Mean flow throughput: 97.212453
+  Mean flow delay: 1288.518480
+
+ ----------------------------xx----------------------------------------xx---------------------
+
+Flow 1 (1.0.0.2:49153 -> 7.0.0.2:1234) proto UDP
+  Tx Packets: 10
+  Tx Bytes:   15280
+  TxOffered:  0.012733 Mbps
+  Rx Bytes:   6112
+  Throughput: 0.005637 Mbps
+  Mean delay:  2067.564281 ms
+  Mean jitter:  1166.000000 ms
+  Rx Packets: 4
+Flow 2 (1.0.0.2:49154 -> 7.0.0.2:1234) proto UDP
+  Tx Packets: 336006
+  Tx Bytes:   513417168
+  TxOffered:  427.847640 Mbps
+  Rx Bytes:   233298096
+  Throughput: 194.423904 Mbps
+  Mean delay:  2602.340644 ms
+  Mean jitter:  0.084559 ms
+  Rx Packets: 152682
+
+
+  Mean flow throughput: 97.214771
+  Mean flow delay: 2334.952463
+
+ ----------------------------xx----------------------------------------xx---------------------
+
+Flow 1 (1.0.0.2:49153 -> 7.0.0.2:1234) proto UDP
+  Tx Packets: 10
+  Tx Bytes:   15280
+  TxOffered:  0.012733 Mbps
+  Rx Bytes:   4584
+  Throughput: 0.007320 Mbps
+  Mean delay:  1512.397614 ms
+  Mean jitter:  999.833333 ms
+  Rx Packets: 3
+Flow 2 (1.0.0.2:49154 -> 7.0.0.2:1234) proto UDP
+  Tx Packets: 384000
+  Tx Bytes:   586752000
+  TxOffered:  488.960000 Mbps
+  Rx Bytes:   233299624
+  Throughput: 194.425178 Mbps
+  Mean delay:  2882.921252 ms
+  Mean jitter:  0.081749 ms
+  Rx Packets: 152683
+
+
+  Mean flow throughput: 97.216249
+  Mean flow delay: 2197.659433
+
+ ----------------------------xx----------------------------------------xx---------------------
+
